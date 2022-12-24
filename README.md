@@ -2,6 +2,25 @@
 
 A new Flutter project.
 
+
+
+
+## About 
+Mint Academy is not just a name, it is the result of love and hard work of many people.  It is a platform where the students of classes 9 to 12 and above are brought to a platform where they are taught many things in detail about their spoken/communication and marketed products easily by some of our specialists and they  It leads to a bright future
+
+#Feature
+1> NavController
+
+2> webview
+
+3> custom navigation bar
+
+4> Go to detail  website.
+
+5> custom Uaer info
+
+6> wheel slider vs scroll snap list
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
