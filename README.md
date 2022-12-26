@@ -8,6 +8,8 @@ https://user-images.githubusercontent.com/66225746/209446528-30b1cc7a-8bd5-4c75-
 ## About 
 Mint Academy is not just a name, it is the result of love and hard work of many people.  It is a platform where the students of classes 9 to 12 and above are brought to a platform where they are taught many things in detail about their spoken/communication and marketed products easily by some of our specialists and they  It leads to a bright future
 
+# [LICENSE](https://github.com/ankitghosh00/Mint-Academy/blob/master/LICENSE)
+
 #Feature
 
 1> NavController
